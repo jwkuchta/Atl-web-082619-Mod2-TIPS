@@ -33,25 +33,6 @@ for n in (1..10)
   puts fibonacci_nonrecursive(n)
 end
 
-# puts fibonacci(1)
-# puts fibonacci(2)
-# puts fibonacci(3)
-# puts fibonacci(4)
-# puts fibonacci(5)
-# puts fibonacci(6)
-# puts fibonacci(7)
-# puts fibonacci(8)
-# puts fibonacci(9)
-# puts fibonacci(10)
 
-# puts fibonacci_nonrecursive(10)
-# puts fibonacci_nonrecursive(2)
-# puts fibonacci_nonrecursive(3)
-# puts fibonacci_nonrecursive(4)
-# puts fibonacci_nonrecursive(5)
-# puts ffibonacci_nonrecursive(6)
-# puts fibonacci(7)
-# puts fibonacci(8)
-# puts fibonacci(9)
-# puts fibonacci(10)
+
 
